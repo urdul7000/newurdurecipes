@@ -1,0 +1,5 @@
+<br />
+<b>Warning</b>:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: 4 extraneous bytes before marker 0xdb
+ in <b>/home/aliurdu/public_html/set_image.php</b> on line <b>1424</b><br />
+<br />
+<b>Warning</b>:  imagecreatefromjpeg(): '/home/aliurdu/public_html/1/mthumbJfeLsG' is not a valid JPEG file in <b>/home/aliurdu/public_html/set_image.php</b> on line <b>1424</b><br />
